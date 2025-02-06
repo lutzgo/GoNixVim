@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Nixvim template
 
 This template gives you a good starting point for configuring nixvim standalone.
@@ -15,3 +16,6 @@ To test your configuration simply run the following command
 ```
 nix run .
 ```
+=======
+# GoNixVim
+>>>>>>> origin/main
